@@ -1,0 +1,10 @@
+{
+  "name": "@hypergraph-xyz/wikidata-identifiers",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "hypergraph-xyz/wikidata-identifiers",
+  "description": "WikiData Identifiers for Hypergraph applications",
+  "scripts": {
+    "test": "node -pe 'require(\".\")'"
+  }
+}
