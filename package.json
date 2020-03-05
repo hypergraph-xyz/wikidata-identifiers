@@ -5,6 +5,10 @@
   "repository": "hypergraph-xyz/wikidata-identifiers",
   "description": "WikiData Identifiers for Hypergraph applications",
   "scripts": {
+    "release": "np",
     "test": "node -pe 'require(\".\")'"
+  },
+  "devDependencies": {
+    "np": "^6.2.0"
   }
 }
