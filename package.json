@@ -6,9 +6,11 @@
   "description": "WikiData Identifiers for Hypergraph applications",
   "scripts": {
     "release": "np",
-    "test": "node -pe 'require(\".\")'"
+    "test": "prettier-standard && standard && node -pe 'require(\".\")'"
   },
   "devDependencies": {
-    "np": "^6.2.0"
+    "np": "^6.2.0",
+    "prettier-standard": "^16.2.1",
+    "standard": "^14.3.1"
   }
 }
