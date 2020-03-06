@@ -1,5 +1,7 @@
 # wikidata-identifiers
 
+![ci](https://github.com/hypergraph-xyz/wikidata-identifiers/workflows/ci/badge.svg)
+
 [WikiData Identifiers](https://www.wikidata.org/wiki/Wikidata:Identifiers) for Hypergraph applications.
 
 ## Usage
