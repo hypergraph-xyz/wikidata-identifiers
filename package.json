@@ -9,7 +9,7 @@
     "test": "prettier-standard && standard && node -pe 'require(\".\")'"
   },
   "devDependencies": {
-    "np": "^6.2.0",
+    "np": "^5.2.1",
     "prettier-standard": "^16.2.1",
     "standard": "^14.3.1"
   },
