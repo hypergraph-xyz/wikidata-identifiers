@@ -5,7 +5,7 @@
   "repository": "hypergraph-xyz/wikidata-identifiers",
   "description": "WikiData Identifiers for Hypergraph applications",
   "scripts": {
-    "release": "np",
+    "release": "np --any-branch",
     "test": "prettier-standard && standard && node -pe 'require(\".\")'"
   },
   "devDependencies": {
