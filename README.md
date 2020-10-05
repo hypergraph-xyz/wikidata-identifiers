@@ -21,3 +21,9 @@ $ npm install @hypergraph-xyz/wikidata-identifiers
 ### identifiers
 
 An object of identifier -> name mappings. Check out [index.json](index.json) for a full list.
+
+## Releasing
+
+```bash
+$ npm run release
+```
