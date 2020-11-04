@@ -1,6 +1,6 @@
 # wikidata-identifiers <img src="https://raw.githubusercontent.com/hypergraph-xyz/design/main/hypergraph-logomark-1024-square.png" align="right" height="64" />
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![ci](https://github.com/hypergraph-xyz/wikidata-identifiers/workflows/ci/badge.svg)
@@ -44,6 +44,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/juliangruber"><img src="https://avatars2.githubusercontent.com/u/10247?v=4" width="100px;" alt=""/><br /><sub><b>Julian Gruber</b></sub></a><br /><a href="https://github.com/hypergraph-xyz/wikidata-identifiers/commits?author=juliangruber" title="Code">💻</a> <a href="#infra-juliangruber" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/hypergraph-xyz/wikidata-identifiers/commits?author=juliangruber" title="Tests">⚠️</a></td>
     <td align="center"><a href="https://github.com/jameslibscie"><img src="https://avatars2.githubusercontent.com/u/59870484?v=4" width="100px;" alt=""/><br /><sub><b>James Lomas</b></sub></a><br /><a href="https://github.com/hypergraph-xyz/wikidata-identifiers/commits?author=jameslibscie" title="Code">💻</a></td>
+    <td align="center"><a href="https://chjh.nl"><img src="https://avatars0.githubusercontent.com/u/2946344?v=4" width="100px;" alt=""/><br /><sub><b>Chris Hartgerink</b></sub></a><br /><a href="https://github.com/hypergraph-xyz/wikidata-identifiers/commits?author=chartgerink" title="Code">💻</a> <a href="#financial-chartgerink" title="Financial">💵</a> <a href="#maintenance-chartgerink" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
