@@ -15,6 +15,15 @@
         "infra",
         "test"
       ]
+    },
+    {
+      "login": "jameslibscie",
+      "name": "James Lomas",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/59870484?v=4",
+      "profile": "https://github.com/jameslibscie",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
